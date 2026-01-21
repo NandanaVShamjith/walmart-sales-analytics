@@ -79,7 +79,7 @@ Download presentation: https://drive.google.com/file/d/1yniqMMwKE_R8iyVQpCpaMJRg
 This video explains the dashboard insights as a business narrative, demonstrating how the visuals are interpreted and validated using slicers.
 
 Watch the walkthrough:
-https://drive.google.com/file/d/1IOWRpkM0cCUsN6oM5crDvwuFrDvVG3-Q/view?usp=drive_link
+https://drive.google.com/file/d/1IOWRpkM0cCUsN6oM5crDvwuFrDvVG3-Q/view?usp=sharing
 
 ---
 
@@ -125,6 +125,7 @@ SQL Server, Power BI, Python (Pandas, Scikit-learn, XGBoost)
 ## Author
 Nandana V Shamjith  
 Data Analytics & Business Intelligence Portfolio Project
+
 
 
 
