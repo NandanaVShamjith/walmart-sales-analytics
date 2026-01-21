@@ -72,7 +72,7 @@ Screenshot: https://drive.google.com/file/d/1bW8kDCG0omJNRn1y56qqoel5g7OKoYdG/vi
 ---
 
 ### Presentation (PPT)
-Download the executive presentation: https://drive.google.com/file/d/1yniqMMwKE_R8iyVQpCpaMJRg6BiAY280/view?usp=drive_link
+Download presentation: https://drive.google.com/file/d/1yniqMMwKE_R8iyVQpCpaMJRg6BiAY280/view?usp=sharing
 
 ---
 ## Dashboard Storytelling Walkthrough
@@ -125,6 +125,7 @@ SQL Server, Power BI, Python (Pandas, Scikit-learn, XGBoost)
 ## Author
 Nandana V Shamjith  
 Data Analytics & Business Intelligence Portfolio Project
+
 
 
 
