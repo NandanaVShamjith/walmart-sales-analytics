@@ -58,10 +58,15 @@ Key insights:
 ### Dashboard File
 Download Power BI dashboard:
 https://github.com/NandanaVShamjith/walmart-sales-analytics/blob/main/walmart_dashboard.pbix
+
 Screenshot: https://drive.google.com/file/d/1K-Qw-SsEVQnTuGem-CEoFheWXvYJhQ3V/view?usp=sharing
+
 Screenshot: https://drive.google.com/file/d/1iDKVZZrwsVN8QWT1PGwRL40tEU0nDXsY/view?usp=sharing
+
 Screenshot: https://drive.google.com/file/d/1090KRDGPPN5v-GbXIa7yfu-iC63xrtks/view?usp=sharing
+
 Screenshot: https://drive.google.com/file/d/1FKu3FPdHb9nUnAa3bKY4k225dP-cUiLQ/view?usp=sharing
+
 Screenshot: https://drive.google.com/file/d/1bW8kDCG0omJNRn1y56qqoel5g7OKoYdG/view?usp=sharing
 
 ---
@@ -120,5 +125,6 @@ SQL Server, Power BI, Python (Pandas, Scikit-learn, XGBoost)
 ## Author
 Nandana V Shamjith  
 Data Analytics & Business Intelligence Portfolio Project
+
 
 
